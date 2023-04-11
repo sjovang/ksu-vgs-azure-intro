@@ -63,7 +63,7 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_public_ip"></a> [public\_ip](#output\_public\_ip) | n/a |
+| <a name="output_public_ip"></a> [public\_ip](#output\_public\_ip) | Public IP address of the created VM |
 <!-- END_TF_DOCS -->
 
 ## Visualize deployment
