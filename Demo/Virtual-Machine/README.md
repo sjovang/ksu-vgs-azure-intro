@@ -65,3 +65,9 @@ No modules.
 |------|-------------|
 | <a name="output_public_ip"></a> [public\_ip](#output\_public\_ip) | n/a |
 <!-- END_TF_DOCS -->
+
+## Visualize deployment
+
+Update the visualized graph with `terraform graph -type=plan | dot -Tpng > graph.png`
+
+![Terraform Graph](graph.png?raw=true "Terraform Graph")
