@@ -12,6 +12,7 @@ Presentation, demo material and learning resources for students
 ### Bicep
 
 * [Learn Live: Use Bicep to deploy your Azure infrastructure as code](https://learn.microsoft.com/en-us/events/learn-events/learnlive-iac-and-bicep/)
+* [Bicep documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
 
 ### Terraform
 
