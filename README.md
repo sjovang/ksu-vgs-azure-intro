@@ -8,6 +8,8 @@ Presentation, demo material and learning resources for students
 
 * [Exam AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/exams/az-900/)
 * [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
+* [Azure Charts](https://azurecharts.com/)
+* [Microsoft Learn](https://learn.microsoft.com/en-us/training/)
 
 ### Bicep
 
